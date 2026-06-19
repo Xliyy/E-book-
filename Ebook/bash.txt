@@ -1,0 +1,7 @@
+mkdir ebook-library
+
+cd ebook-library
+
+npm init -y
+
+npm install express multer cors

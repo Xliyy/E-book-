@@ -1,0 +1,42 @@
+body{
+font-family:Arial;
+background:#f4f4f4;
+margin:0;
+padding:40px;
+}
+
+.container{
+max-width:800px;
+margin:auto;
+background:white;
+padding:30px;
+border-radius:10px;
+}
+
+.upload{
+display:flex;
+gap:10px;
+margin-bottom:20px;
+}
+
+button{
+padding:10px 20px;
+cursor:pointer;
+}
+
+.book{
+padding:15px;
+border:1px solid #ddd;
+margin:10px 0;
+border-radius:8px;
+}
+
+a{
+text-decoration:none;
+color:blue;
+}
+
+#status{
+margin:15px 0;
+font-weight:bold;
+}
